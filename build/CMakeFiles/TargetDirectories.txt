@@ -1,0 +1,3 @@
+/Users/ef/Desktop/3d-render/build/CMakeFiles/render.dir
+/Users/ef/Desktop/3d-render/build/CMakeFiles/edit_cache.dir
+/Users/ef/Desktop/3d-render/build/CMakeFiles/rebuild_cache.dir
