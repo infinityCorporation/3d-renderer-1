@@ -794,8 +794,13 @@ CMakeFiles/render.dir/main.cc.o: /Users/ef/Desktop/3d-render/main.cc \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/ptrcheck.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h
+  /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h \
+  /Users/ef/Desktop/3d-render/color.h \
+  /Users/ef/Desktop/3d-render/ray.h \
+  /Users/ef/Desktop/3d-render/vec3.h
 
+
+/Users/ef/Desktop/3d-render/vec3.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h:
 
@@ -1581,6 +1586,8 @@ CMakeFiles/render.dir/main.cc.o: /Users/ef/Desktop/3d-render/main.cc \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/noexcept_move_assign_container.h:
 
+/Users/ef/Desktop/3d-render/color.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__charconv/tables.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_end.h:
@@ -2232,6 +2239,8 @@ CMakeFiles/render.dir/main.cc.o: /Users/ef/Desktop/3d-render/main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
+
+/Users/ef/Desktop/3d-render/ray.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/equality_comparable.h:
 
